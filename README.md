@@ -4,7 +4,7 @@ This repository contains two Google Colab notebooks exploring trends in public b
 
 ## Contents
 
-- `Bikes_Exploratory.ipynb`: Data cleaning exploratory data analysis
+- `Bikes_Exploratory.ipynb`: Data cleaning and exploratory data and statistical analysis.
 - `Bikes_Regression`: Modeling and visualizations
 
 ## Purpose
